@@ -1,6 +1,6 @@
 import pyfiglet
 from random import randint
-text=pyfiglet.figlet_format("ROCK , PAPER , SCISSORS")
+text=pyfiglet.figlet_format(" Roshambo Battle")
 print(text)
 computer_choice=user_choice=-1
 def get_choice():
