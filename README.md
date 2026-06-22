@@ -32,6 +32,7 @@
 <h2>🕹️ How To Play</h2>
 <ol>
   <li>Launch the game in your command line or terminal.</li>
+  <img src="screenshot.png" alt="Roshambo Battle Gameplay" width="600">
   <li>When prompted, type your choice:
     <ul>
       <li><code>1</code> for Rock 🪨</li>
